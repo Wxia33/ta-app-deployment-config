@@ -51,4 +51,8 @@ Ingress-nginx is ingress controller for kubernetes using nginx as reverse proxy 
 TODO: how to point ingress/configure nginx to run specific endpoints and services?
 
 
-# Arch
+# Example configs
+
+## example-ingress-config.yaml
+
+change `name` of service
